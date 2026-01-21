@@ -1,12 +1,5 @@
 # Image Widget in Flutter
 
-## 📍 Where to paste this file
-
-- Folder: `04_widgets/`
-- File name: `image_widget.md`
-
----
-
 ## 📌 What is Image Widget?
 
 The `Image` widget is used to display images in a Flutter application.
