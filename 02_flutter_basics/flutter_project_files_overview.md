@@ -85,11 +85,6 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
 ```
-# Flutter Project Files & Folders Overview
-
-This note covers **Flutter project generated files and folders**, their purposes, key points, common mistakes, and summary for beginners.
-
----
 
 ## 7. pubspec.lock
 
