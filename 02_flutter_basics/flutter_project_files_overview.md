@@ -6,6 +6,7 @@ Understanding them is important for **long-term development and organization**.
 ---
 
 ## 1. Root Folder Structure
+```
 my_first_app/
 ├── android/
 ├── ios/
@@ -15,6 +16,7 @@ my_first_app/
 ├── pubspec.lock
 ├── README.md
 └── .gitignore
+```
 
 - Root folder = project folder  
 - Everything related to the app is inside it
