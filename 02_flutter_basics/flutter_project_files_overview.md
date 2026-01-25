@@ -178,5 +178,3 @@ dependencies:
 - `android/` & `ios/` = **platform-specific code**  
 - `test/` = **automated tests**  
 - **Build & internal folders** = auto-generated → **do not commit**
-
-```
