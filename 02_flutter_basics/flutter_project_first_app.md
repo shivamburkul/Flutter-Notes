@@ -128,5 +128,3 @@ Hot Reload:
 - Run app → Hot Reload for fast development
 
 Now you are ready to start adding widgets and UI
-
----
