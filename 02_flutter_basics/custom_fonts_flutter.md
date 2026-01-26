@@ -141,5 +141,3 @@ Text(
 - Registered in `pubspec.yaml`
 - Use via `fontFamily`
 - Can be applied globally
-
----
